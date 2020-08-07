@@ -1,0 +1,16 @@
+.container-cart button{
+  color: whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: center;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  padding: 10px;
+  background-color: rgb(20, 66, 110);
+  font-weight: bolder;
+  margin: 0 65px;
+}
+.container-cart{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin: 0 520px;
+}

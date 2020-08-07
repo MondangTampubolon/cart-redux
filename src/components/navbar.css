@@ -1,0 +1,10 @@
+.navbar h1{
+  color: brown;
+}
+.navbar{
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 30px;
+}
